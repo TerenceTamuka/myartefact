@@ -31,8 +31,8 @@ body {
 
 .navbar-nav li a {
     color: #fff !important;
-    font-weight: 100;
-    font-family: Libre Baskerville bold;
+    font-weight: 300;
+    font-family: "Kanit", sans-serif;
     float: right;
     text-align: left;
 }
